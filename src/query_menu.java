@@ -6,7 +6,7 @@
 
 /**
  *
- * @author wiras
+ * @author imamkahih
  */
 public class query_menu extends menu_center{
     

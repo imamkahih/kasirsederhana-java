@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author wiras
+ * @author imamkahih
  */
 abstract class order_center {
     static List<List<Integer>> order = new ArrayList<>(); //untuk menyimpan id menu & jumlah pesanan

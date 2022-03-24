@@ -6,7 +6,7 @@
 
 /**
  *
- * @author wiras
+ * @author imamkahih
  */
 public class detail_order extends javax.swing.JFrame {
 

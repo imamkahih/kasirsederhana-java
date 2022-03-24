@@ -9,7 +9,7 @@
 
 /**
  *
- * @author wiras
+ * @author imamkahih
  */
 public class choose_menues extends javax.swing.JFrame {
 

@@ -6,7 +6,7 @@
 
 /**
  *
- * @author wiras
+ * @author imamkahih
  */
 public class menu_center {
     protected String[][] menu = {

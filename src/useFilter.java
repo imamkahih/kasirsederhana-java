@@ -8,7 +8,7 @@ import java.awt.event.KeyEvent;
 
 /**
  *
- * @author Administrator
+ * @author imamkahih
  */
 public class useFilter {
     private validation valid;

@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author wiras
+ * @author imamkahih
  */
 public class add_count extends javax.swing.JFrame {
     public int index;

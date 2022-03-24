@@ -10,7 +10,7 @@ import java.awt.event.KeyEvent;
 
 /**
  *
- * @author Administrator
+ * @author imamkahih
  */
 public class payment extends javax.swing.JFrame {
     int total, money, payment = 0;

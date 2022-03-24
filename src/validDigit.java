@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Administrator
+ * @author imamkahih
  */
 public class validDigit implements validation{
      @Override
